@@ -173,6 +173,7 @@ unprofessional behavior.
 * Claire S.
 * Claire Stewart
 * Claudia Hill
+* Clifford Lynch
 * Cody Hanson
 * Colin Nickels
 * Corey A Harper
